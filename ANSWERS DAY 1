@@ -1,13 +1,11 @@
 Part 1: Introduction to Software Engineering
+
 What is Software Engineering and Its Importance
 Software engineering is the systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It involves applying engineering principles to software development to produce high-quality, reliable, and efficient software systems that meet user needs. In the technology industry, software engineering is crucial because it:
 
 Ensures Quality and Reliability: Through rigorous testing and development practices, software engineering minimizes bugs and errors.
-
 Enhances Efficiency: By using well-defined processes and tools, software teams can build and deliver products faster.
-
 Facilitates Maintenance and Scalability: Well-engineered software is easier to update, scale, and integrate with other systems.
-
 Manages Complexity: As software systems grow in complexity, structured methodologies help maintain clarity and manageability.
 
 Key Milestones in the Evolution of Software Engineering
@@ -21,6 +19,7 @@ The Agile Movement (Late 1990s-Present):
 In response to the limitations of rigid development processes, Agile methodologies emerged. Agile emphasizes iterative development, customer collaboration, and flexibility, leading to more adaptive and responsive software development processes.
 
 Phases of the Software Development Life Cycle (SDLC)
+
 Requirements Analysis:
 Gather and document what the software should achieve, including functional and non-functional requirements.
 
